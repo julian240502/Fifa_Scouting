@@ -11,6 +11,8 @@ Ce projet utilise **l'apprentissage automatique** pour **prédire la progression
 ✅ **Normalisation automatique des données avant l'inférence.**  
 
 ---
+- Lien du dataset : https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats
+---
 
 ## 📊 **Technologies Utilisées**
 - **Python** (Pandas, NumPy, Scikit-learn)
