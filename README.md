@@ -6,7 +6,7 @@ Ce projet utilise **l'apprentissage automatique** pour **prédire la progression
 
 ## 📌 **Fonctionnalités**
 ✅ **Prédiction basée sur des statistiques clés** (vitesse, tir, dribble, etc.).  
-✅ **Utilisation de Machine Learning (Régression Linéaire, Random Forest, XGBoost).**  
+✅ **Utilisation de Machine Learning (Régression Linéaire).**  
 ✅ **Interface interactive avec Streamlit** pour tester facilement de nouveaux joueurs.  
 ✅ **Normalisation automatique des données avant l'inférence.**  
 
@@ -14,7 +14,7 @@ Ce projet utilise **l'apprentissage automatique** pour **prédire la progression
 
 ## 📊 **Technologies Utilisées**
 - **Python** (Pandas, NumPy, Scikit-learn)
-- **Machine Learning** (Regression Linéaire, Random Forest, XGBoost)
+- **Machine Learning** (Regression Linéaire [modèle actuellement utilisé], Random Forest[Phase de test...], XGBoost[Phase de test...])
 - **Streamlit** (Interface utilisateur interactive)
 - **Pickle** (Sauvegarde et chargement du modèle)
 
